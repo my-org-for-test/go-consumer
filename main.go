@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/my-org-org/go-producer/dependency"
+	"github.com/my-org-for-test/go-producer/dependency"
 )
 
 func main() {
